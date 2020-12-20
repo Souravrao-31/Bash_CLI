@@ -1,0 +1,31 @@
+{
+  "name": "sourav_cli",
+  "version": "1.0.0",
+  "description": "Making your own CLI using NodeJs",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cli",
+    "create-project"
+  ],
+  "author": "Sourav Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Souravrao-31"
+  },
+  "homepage": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "esm": "^3.2.25",
+    "shelljs": "^0.8.3"
+  }
+}
